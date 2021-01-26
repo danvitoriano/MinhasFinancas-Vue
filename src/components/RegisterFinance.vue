@@ -29,9 +29,6 @@ import axios from "axios";
 
 export default {
   name: "RegisterFinance",
-  props: {
-    msg: String
-  },
   data() {
     return {
       item: null,
